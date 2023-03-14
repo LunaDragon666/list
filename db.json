@@ -1,0 +1,19 @@
+{
+    "list": [
+      {
+        "id": 0,
+        "name": "Milk",
+        "allergens": [
+          "lactoce"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Chocolate",
+        "allergens": [
+          "gluten",
+          "lactoce"
+        ]
+      }
+    ]
+  }
